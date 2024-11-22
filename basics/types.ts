@@ -29,3 +29,13 @@ type ResponseTypeService = number | null;
 
 let responseProductos : ResponseTypeService;
 let responsePartners: ResponseTypeService;
+
+
+// Type Assertions -> castear 
+
+let message: any = "";
+(message as string).slice();
+
+let messageUppercase = (message as string).toUpperCase();
+
+let message2 = <string>message;

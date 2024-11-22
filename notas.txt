@@ -1,0 +1,3 @@
++ Lenguaje fuertemente tipado
++ Prevencion de errores en tiempos de ejecucion
++ Integracion con Editores/IDE

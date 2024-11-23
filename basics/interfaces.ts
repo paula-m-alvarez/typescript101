@@ -17,7 +17,7 @@ let person2: Person = {
 }
 
 // Esto nos va a dar error porque tenemos que tenes las mismas proiedades de la Interfaz Person
-let person3: Person = {}
+//let person3: Person = {}
 
 // Si no queremos agregar alguna propiedad podemos agregar en la interfaz ? -> para indicar que es opcional
 

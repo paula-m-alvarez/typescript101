@@ -40,6 +40,6 @@ interface Developer {
 
 // Mergea ambas interfaces -> Asi no tenemos que modificar la original / Sobreescribimos la interfaz original
 
-const me: Developer={
+//const me: Developer={
    
-}
+//}

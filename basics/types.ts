@@ -39,3 +39,4 @@ let message: any = "";
 let messageUppercase = (message as string).toUpperCase();
 
 let message2 = <string>message;
+
